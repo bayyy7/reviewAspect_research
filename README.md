@@ -33,8 +33,7 @@ This repo contains code and implementation of classification on International Co
 
 ## Paper & Citation
 
-Our research can be accessed through this website below:
-* ...
+
 ```bibtex
 @misc{..,
   doi = {...},
