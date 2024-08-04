@@ -39,7 +39,7 @@ This repo contains code and implementation of classification on International Co
   doi = {...},
   url = {...},
   author = {Basuki, Sari, Tsuchiya and Indrabayu},
-  keywords = {ICCV, CVPR, WACV, BERTopic, Topic Detection},
+  keywords = {Review-Aspect, ICLR, Classification, and XGBoost},
   title = {Predicting the Sentiment of Review Aspects in the Peer Review Text using Machine Learning},
   publisher = {Kinetik},
   year = {2024},
