@@ -36,8 +36,8 @@ This repo contains code and implementation of classification on International Co
 
 ```bibtex
 @misc{..,
-  doi = {...},
-  url = {...},
+  doi = {https://doi.org/10.22219/kinetik.v9i4.2042},
+  url = {https://kinetik.umm.ac.id/index.php/kinetik/article/view/2042},
   author = {Basuki, Sari, Tsuchiya and Indrabayu},
   keywords = {Review-Aspect, ICLR, Classification, and XGBoost},
   title = {Predicting the Sentiment of Review Aspects in the Peer Review Text using Machine Learning},
